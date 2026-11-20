@@ -151,7 +151,7 @@ Loggbok Prague Parking V1
 **Tid:** ca 0,5 h
 
 **Gjort**
-- Sista genomläsning av kraven mot checklistan från 23/9 – alla G-krav är bockade.
+- Sista genomläsning av kraven mot checklistan jag gjorde – alla G-krav är bockade.
 - Kontrollerade att repot är publikt och lämnade in länken till repot (inte en fil) samt den här loggboken.
 
 ---
