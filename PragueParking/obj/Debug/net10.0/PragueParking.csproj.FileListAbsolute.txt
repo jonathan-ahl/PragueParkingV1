@@ -1,0 +1,16 @@
+C:\Users\itsjonis\Desktop\KYH DevSecOps\c#\projparking 1\PragueParkingV1\PragueParking\bin\Debug\net10.0\PragueParking.exe
+C:\Users\itsjonis\Desktop\KYH DevSecOps\c#\projparking 1\PragueParkingV1\PragueParking\bin\Debug\net10.0\PragueParking.deps.json
+C:\Users\itsjonis\Desktop\KYH DevSecOps\c#\projparking 1\PragueParkingV1\PragueParking\bin\Debug\net10.0\PragueParking.runtimeconfig.json
+C:\Users\itsjonis\Desktop\KYH DevSecOps\c#\projparking 1\PragueParkingV1\PragueParking\bin\Debug\net10.0\PragueParking.runtimeconfig.dev.json
+C:\Users\itsjonis\Desktop\KYH DevSecOps\c#\projparking 1\PragueParkingV1\PragueParking\bin\Debug\net10.0\PragueParking.dll
+C:\Users\itsjonis\Desktop\KYH DevSecOps\c#\projparking 1\PragueParkingV1\PragueParking\bin\Debug\net10.0\PragueParking.pdb
+C:\Users\itsjonis\Desktop\KYH DevSecOps\c#\projparking 1\PragueParkingV1\PragueParking\obj\Debug\net10.0\PragueParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsjonis\Desktop\KYH DevSecOps\c#\projparking 1\PragueParkingV1\PragueParking\obj\Debug\net10.0\PragueParking.AssemblyInfoInputs.cache
+C:\Users\itsjonis\Desktop\KYH DevSecOps\c#\projparking 1\PragueParkingV1\PragueParking\obj\Debug\net10.0\PragueParking.AssemblyInfo.cs
+C:\Users\itsjonis\Desktop\KYH DevSecOps\c#\projparking 1\PragueParkingV1\PragueParking\obj\Debug\net10.0\PragueParking.csproj.CoreCompileInputs.cache
+C:\Users\itsjonis\Desktop\KYH DevSecOps\c#\projparking 1\PragueParkingV1\PragueParking\obj\Debug\net10.0\PragueParking.dll
+C:\Users\itsjonis\Desktop\KYH DevSecOps\c#\projparking 1\PragueParkingV1\PragueParking\obj\Debug\net10.0\refint\PragueParking.dll
+C:\Users\itsjonis\Desktop\KYH DevSecOps\c#\projparking 1\PragueParkingV1\PragueParking\obj\Debug\net10.0\PragueParking.pdb
+C:\Users\itsjonis\Desktop\KYH DevSecOps\c#\projparking 1\PragueParkingV1\PragueParking\obj\Debug\net10.0\PragueParking.genruntimeconfig.cache
+C:\Users\itsjonis\Desktop\KYH DevSecOps\c#\projparking 1\PragueParkingV1\PragueParking\obj\Debug\net10.0\ref\PragueParking.dll
+C:\Users\itsjonis\Desktop\KYH DevSecOps\c#\projparking 1\PragueParkingV1\PragueParking\obj\Debug\net10.0\PraguePa.1665375D.Up2Date
