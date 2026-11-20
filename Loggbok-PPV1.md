@@ -134,6 +134,27 @@ Loggbok Prague Parking V1
 
 ---
 
+## 2026-11-20 – Repo
+**Tid:** ca 1,5 h
+
+**Gjort**
+- Skapade ett publikt repo på GitHub.
+
+**Problem och lösning**
+- *Problem:* Första pushen innehöll mapparna `bin/`, `obj/` och `.vs/` – flera hundra filer.
+- *Orsak:* Jag skapade repot utan `.gitignore`.
+- *Lösning:* Lade till en `.gitignore` för Visual Studio, tog bort mapparna ur Git med `git rm -r --cached .` och committade igen.
+
+**Lärdom:** Lägg till `.gitignore` *innan* första commit.
+
+## 2026-11-20 (fredag) – Inlämning
+**Tid:** ca 0,5 h
+
+**Gjort**
+- Sista genomläsning av kraven mot checklistan från 23/9 – alla G-krav är bockade.
+- Kontrollerade att repot är publikt och lämnade in länken till repot (inte en fil) samt den här loggboken.
+
+---
 
 
 

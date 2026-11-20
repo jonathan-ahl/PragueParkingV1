@@ -1,0 +1,5 @@
+# Byggfiler och Visual Studio-inställningar ska inte till GitHub
+bin/
+obj/
+.vs/
+*.user
